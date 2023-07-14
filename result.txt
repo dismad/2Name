@@ -1,0 +1,43 @@
+
+  zzzzzzzzzzz
+          zz 
+        zz   
+      zz     
+    zz       
+  zz         
+ zzzzzzzzzzz 
+
+    ccccc    
+  ccccccccc  
+ cc      cc 
+ cc         
+ cc         
+ cc      cc 
+  ccccccccc  
+   cccccc    
+
+      a      
+     aaa     
+    aa aa    
+   aa   aa   
+  aaaaaaaaa  
+ aa       aa 
+aa         aa
+
+    sssss    
+  sssssssss  
+  sss    sss 
+    sss      
+      sss    
+ sss    sss  
+  sssssssss  
+    sssss    
+
+ hh      hh
+ hh      hh
+ hh      hh
+ hhhhhhhhhh
+ hh      hh
+ hh      hh
+ hh      hh
+
